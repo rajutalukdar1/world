@@ -44,9 +44,11 @@ h1 {
 }
 
 .area {
-    margin-bottom: 25%;
+
+    margin: 151px;
     background-image: url(exp-bg.png);
     background-repeat: no-repeat;
+    background-position: left;
     background-position: left;
 
 }
@@ -66,4 +68,8 @@ h1 {
 
 #baby-web {
     border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
